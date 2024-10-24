@@ -1,0 +1,33 @@
+/* Home Page Specific Styling */
+.home-container {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .home-title {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #007bff;
+  }
+  
+  .home-intro {
+    font-size: 1.2rem;
+    color: #666;
+    margin-bottom: 30px;
+  }
+  
+  .home-btn {
+    margin-top: 20px;
+    background-color: #007bff;
+    padding: 15px 25px;
+    font-size: 1.2rem;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .home-btn:hover {
+    background-color: #0056b3;
+  }
+  

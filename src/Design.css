@@ -1,0 +1,20 @@
+/* Design and Development Shared Styles */
+.service-page {
+    padding: 40px;
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: left;
+  }
+  
+  .service-title {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #007bff;
+  }
+  
+  .service-content {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: #555;
+  }
+  
